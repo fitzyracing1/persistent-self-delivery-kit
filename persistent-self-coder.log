@@ -1,8 +1,5 @@
-Improved public-apis-explorer to fully offline version.
+New delivery: Web UI version of Public APIs Explorer specifically for Termux users.
 
-- Bundled curated list of 15 popular APIs directly in the code
-- Works without any internet connection
-- Added category support
-- Pushed to https://github.com/fitzyracing1/public-apis-explorer
+Repo: https://github.com/fitzyracing1/public-apis-explorer-web
 
-This fulfills the request for an offline version using a built-in list in a dedicated repo.
+Includes Flask web app with clean mobile-friendly UI. Fully offline with bundled data.
